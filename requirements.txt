@@ -10,3 +10,4 @@ flask_bcrypt
 psycopg2-binary 
 jwt 
 flask-cors
+flask_migrate
