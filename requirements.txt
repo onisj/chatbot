@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+python-dotenv
+gradio
+requests
+speechrecognition
+moviepy
+gtts
+flask_bcrypt
+psycopg2-binary 
+jwt 
+flask-cors
